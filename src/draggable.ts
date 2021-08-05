@@ -1,4 +1,5 @@
 import 'jquery';
+import './resizable.css';
 
 export class Draggable {
     draggableElement: JQuery;

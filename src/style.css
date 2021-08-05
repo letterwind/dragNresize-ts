@@ -8,3 +8,12 @@
     position: absolute;
 }
 
+.mydiv img{
+    width: 100%;
+    
+}
+
+/* .mydiv {
+    background-image: url('./logo.png');
+} */
+

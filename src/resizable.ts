@@ -1,4 +1,5 @@
 import "jquery";
+import './resizable.css';
 export class Resizable {
     public minX = 20;
     public minY = 20;
